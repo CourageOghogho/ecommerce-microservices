@@ -1,0 +1,6 @@
+com/courage/inventoryservice/controller/InventoryController.class
+com/courage/inventoryservice/repository/InventoryRepository.class
+com/courage/inventoryservice/model/Inventory.class
+com/courage/inventoryservice/model/Inventory$InventoryBuilder.class
+com/courage/inventoryservice/InventoryServiceApplication.class
+com/courage/inventoryservice/service/InventoryService.class

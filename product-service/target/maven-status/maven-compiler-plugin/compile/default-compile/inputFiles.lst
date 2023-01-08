@@ -1,0 +1,8 @@
+/Users/mac/Documents/coding-arena/ecommerce-microservices/product-service/src/main/java/com/courage/productservice/model/Product.java
+/Users/mac/Documents/coding-arena/ecommerce-microservices/product-service/src/main/java/com/courage/productservice/dto/ProductResponse.java
+/Users/mac/Documents/coding-arena/ecommerce-microservices/product-service/src/main/java/com/courage/productservice/repository/ProductRepository.java
+/Users/mac/Documents/coding-arena/ecommerce-microservices/product-service/src/main/java/com/courage/productservice/ProductServiceApplication.java
+/Users/mac/Documents/coding-arena/ecommerce-microservices/product-service/src/main/java/com/courage/productservice/controller/ProductController.java
+/Users/mac/Documents/coding-arena/ecommerce-microservices/product-service/src/main/java/com/courage/productservice/service/ProductService.java
+/Users/mac/Documents/coding-arena/ecommerce-microservices/product-service/src/main/java/com/courage/productservice/dto/ProductRequest.java
+/Users/mac/Documents/coding-arena/ecommerce-microservices/product-service/src/main/java/com/courage/productservice/service/impl/ProductServiceImpl.java
